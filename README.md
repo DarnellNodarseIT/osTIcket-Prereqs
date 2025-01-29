@@ -202,7 +202,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 18.) Install HeidiSQL 
 <p>
-- Once HeidiSQL finishes installing it will automatically launch. Once opened we want to click new on the bottom left.
+- Once HeidiSQL finishes installing, it will automatically launch. Once opened we want to click new on the bottom left.
 <p>
 - After clicking new, for user we want to put "root" and for password we want to put "root" like we did for "MySQL server". 
 <p>
